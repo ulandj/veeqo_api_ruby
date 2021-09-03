@@ -67,5 +67,6 @@ module Veeqo
     property :time_since_successfully_fetch_stock_level
     property :default_warehouse
     property :remote
+    property :token
   end
 end
